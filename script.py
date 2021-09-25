@@ -1,5 +1,5 @@
 from config import Config
-class Messages():
+class script(object):
       HELP_MSG = [
         ".",
 
