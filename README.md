@@ -9,7 +9,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahrial2310/FSub-TeleBot-ENG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bismillahfahriganteng/FSub-TeleBot-ENG)
 
 ### Group Support
 <a href="https://t.me/Alvin_image_editor_group"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
